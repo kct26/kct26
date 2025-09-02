@@ -1,14 +1,20 @@
-# Welcome! 👋  
+# Hi, I'm Khoa Dang (kct26)  
+---
 
-I’m **Khoa (kct26)** — a high school student passionate about **coding, algorithms, and problem solving**.  
+🎓 High School Student | 💻 Aspiring Programmer  
+
+I’m passionate about **coding, algorithms, and problem solving**.  
 Here I share my coding journey, projects, and daily progress on platforms like LeetCode.  
 
 ---
 
 ### 🛠️ Languages and Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+</p>  
 
 ---
 
@@ -18,10 +24,26 @@ Here I share my coding journey, projects, and daily progress on platforms like L
 
 ---
 
-### 📊 GitHub Stats  
-![Kct26's GitHub stats](https://github-readme-stats.vercel.app/api?username=kct26&show_icons=true&theme=tokyonight)  
+### 📫 Connect with me  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kct26&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kct26" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>  
+
+---
+
+### 📊 GitHub Stats  
+
+![Kct26's GitHub stats](https://github-readme-stats.vercel.app/api?username=kct26&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kct26&layout=compact&theme=tokyonight)  
 
 ---
 
