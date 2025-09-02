@@ -1,4 +1,4 @@
-# Hi, I'm Khoa Dang (kct26)  
+# Hi, I'm Khoa Dang (kct26)
 ---
 
 🎓 High School Student | 💻 Aspiring Programmer  
@@ -8,12 +8,12 @@ Here I share my coding journey, projects, and daily progress on platforms like L
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🐍 Languages and Tools  
 
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+  </a>
 </p>  
 
 ---
@@ -26,15 +26,15 @@ Here I share my coding journey, projects, and daily progress on platforms like L
 
 ### 📫 Connect with me  
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/khoa-dang2522/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:dangmkhoa2522@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/kct26" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://www.instagram.com/kyle.dang_/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>  
 
