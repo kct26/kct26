@@ -1,7 +1,8 @@
 # Hi, I'm Khoa Dang (kct26)
 ---
 
-🎓 High School Student | 💻 Aspiring Programmer  
+## High School Student @ Le Hong Phong High School for the Gifted, HCMC 
+
 
 I’m passionate about **coding, algorithms, and problem solving**.  
 Here I share my coding journey, projects, and daily progress on platforms like LeetCode.  
