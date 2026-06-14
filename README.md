@@ -1,4 +1,4 @@
-# Hi, I'm Khoa Dang (kct26)
+# Hi, I'm Khoa (Kyle) Dang
 
 ## Incoming Computer Engineering Student @ Drexel University
 
