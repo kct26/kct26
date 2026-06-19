@@ -2,7 +2,7 @@
 
 ## Incoming Computer Engineering Student @ Drexel University
 
-I am passionate about **competitive programming, embedded systems, computer architecture, and AI**.  
+I am passionate about **competitive programming, embedded systems and semiconductor, computer architecture, and AI**.  
 I enjoy solving algorithmic problems, building projects, and sharing my progress through GitHub.
 
 ---
